@@ -152,6 +152,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  sunmi_printer_plus:
+    dependency: "direct main"
+    description:
+      name: sunmi_printer_plus
+      sha256: "40733c728445a3cb3e6264be58732a3509a5933b2669822a384d7b38121baf69"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.01"
   term_glyph:
     dependency: transitive
     description:
@@ -186,3 +194,4 @@ packages:
     version: "0.1.4-beta"
 sdks:
   dart: ">=3.1.0 <4.0.0"
+  flutter: ">=1.10.0"
